@@ -1,5 +1,6 @@
 Edgelist:
 from (id Mitglied der Kommission) 
+
 to (alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)
 
 Nodelist:
